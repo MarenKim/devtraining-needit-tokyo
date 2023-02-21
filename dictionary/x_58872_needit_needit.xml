@@ -2,6 +2,7 @@
     <element audit="true" db_object_id="0e1fedf497f02110a33338271153afe4" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" default="legal" label="Request type" mandatory="true" max_length="40" name="u_choice_3" type="string">
             <choice>
+                <element inactive_on_update="false" label="Facilities" sequence="0" value="Facilities"/>
                 <element inactive_on_update="false" label="Human Resources" sequence="0" value="hr"/>
                 <element inactive_on_update="false" label="Facilites" sequence="1" value="facilites"/>
                 <element inactive_on_update="false" label="Legal" sequence="2" value="legal"/>
@@ -11,6 +12,7 @@
         <element attributes="edge_encryption_enabled=true" choice="1" default="legal1" label="What needed" mandatory="true" max_length="40" name="u_choice_4" type="string">
             <choice>
                 <element inactive_on_update="false" label="Human Resources 1" sequence="0" value="hr1"/>
+                <element inactive_on_update="false" label="Other" sequence="0" value="Other"/>
                 <element inactive_on_update="false" label="Human Resources 2" sequence="1" value="hr2"/>
                 <element inactive_on_update="false" label="Facilities 1" sequence="2" value="facilities1"/>
                 <element inactive_on_update="false" label="Facilities 2" sequence="3" value="facilities2"/>
