@@ -54,13 +54,14 @@
         <update_guid_history>69d3d9d94141211048e7252bc39a3b41:0,5f025d59fc4121108f0928d5cd3d51ae:1977620993,805d05559a4121105f3a01e0593c595a:0,f40dc915c04121103b07c64c3b7ef7fa:1977620993,f86b0d919a4121104943dbe4da821d76:0,9e2b4191e14121106f6be1946509418c:1977620993,93c98911db4121108031eb7439e9ab04:0,0d580d9dd90121107553fae79b15f9fc:1977620993,9e6f25387cf021101614b3a9c15a5f4d:1215791235</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_58872_needit_needit.x_58872_needit.needit_user">1df0fb6997852110a33338271153af78</sys_audit_delete>
+        <sys_audit_delete display_value="">1df0fb6997852110a33338271153af78</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-02-16 14:31:49</sys_created_on>
         <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
         <sys_id>384dcfd33a6949079928323c3925c1d9</sys_id>
         <sys_metadata>d26f253897f02110a33338271153af4c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_58872_needit_needit.x_58872_needit.needit_user</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_parent display_value="x_58872_needit_needit">1e6f253897f02110a33338271153af49</sys_parent>
@@ -69,5 +70,7 @@
         <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
         <sys_update_name>sys_security_acl_role_d26f253897f02110a33338271153af4c</sys_update_name>
         <sys_update_version display_value="sys_security_acl_role_d26f253897f02110a33338271153af4c">2dd3d9d997412110a33338271153af41</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 13:16:21</sys_updated_on>
     </sys_metadata_delete>
 </record_update>
